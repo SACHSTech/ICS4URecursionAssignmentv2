@@ -1,6 +1,12 @@
-# Recursion Practice
+# Recursion Assignment
 
+## Part 1
+Choose a problem from sets 1, 2, and 3 and implement their solutions in a static methods in a class called RecursionAssignment.java.
 
+## Part 2
+Modify the RecursionTest.java class to implemement junit tests to thoroughly verify the functionality of your recursion solutions. 
+
+z
 ### Problem Set 1
 
 #### count7 
