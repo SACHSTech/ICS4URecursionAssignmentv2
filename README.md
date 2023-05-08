@@ -1,12 +1,16 @@
 # Recursion Assignment
 
-## Part 1
-Choose a problem from sets 1, 2, and 3 and implement their solutions in a static methods in a class called RecursionAssignment.java.
+## Part 1 - Implement Solutions
+Choose one problem from each set 1, 2, and 3 and implement their solutions in static methods in the Recursion.java class.
 
-## Part 2
-Modify the RecursionTest.java class to implemement junit tests to thoroughly verify the functionality of your recursion solutions. 
+## Part 2 - Test
+Modify the RecursionTest.java class and implemement junit tests to thoroughly verify the functionality of your recursion solutions. 
 
-z
+## Part 3 - Video
+Using a jamboard, google draw, or google doc, create a **screen recording** of yourself performing and Stack Diagram trace of ONE of your recursive solutions.  Be sure to verbalize the steps that you are performaing and communicate the process of making the method call and all the subsequent recursive calls and returns.
+
+
+----
 ### Problem Set 1
 
 #### count7 
